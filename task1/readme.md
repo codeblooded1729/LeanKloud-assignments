@@ -1,3 +1,4 @@
+Hello world!
 # Running the code
 - run `create_db.py` to create a database with three entries
 - create localhost server by running `task1.py`
